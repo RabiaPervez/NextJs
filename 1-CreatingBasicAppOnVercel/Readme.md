@@ -1,4 +1,4 @@
-### The NextJs basic app was deployed on vercel (https://rabia-app.vercel.app/) with the help of following steps.
+### The NextJs basic app was deployed on vercel (https://rabia-app.vercel.app/) with the help of following steps. </br>
 Go into the folder where app has to e created
 open vscode and then terminal in it. Create project with npx create-next-app@latest --experimental-app
 Give app name, e.g., rabia-app
